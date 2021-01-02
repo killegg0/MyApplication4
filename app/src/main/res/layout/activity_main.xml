@@ -31,5 +31,11 @@
         app:backgroundTint="#009688"
         app:srcCompat="@drawable/ic_baseline_add_shopping_cart_24" />
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="118dp"
+        android:layout_height="160dp"
+        android:text="TextView" />
+
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
